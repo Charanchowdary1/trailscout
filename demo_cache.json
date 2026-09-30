@@ -1,0 +1,654 @@
+{
+  "KRAS inhibitors in lung cancer": [
+    {
+      "pmid": "38637634",
+      "title": "Targeting KRAS in cancer.",
+      "journal": "Nature medicine",
+      "date": "Apr 2024",
+      "authors": "Singhal A, Li BT, O'Reilly EM",
+      "summary": "RAS family variants-most of which involve KRAS-are the most commonly occurring hotspot mutations in human cancers and are associated with a poor prognosis. For almost four decades, KRAS has been considered undruggable, in part due to its structure, which...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "RAS family variants-most of which involve KRAS-are the most commonly occurring hotspot mutations in human cancers and are associated with a poor prognosis. For almost four decades, KRAS has been considered undruggable, in part due to its structure, which lacks small-molecule binding sites. But recent developments in bioengineering, organic chemistry and related fields have provided the infrastructure to make direct KRAS targeting possible. The first successes occurred with allele-specific targeting of KRAS p.Gly12Cys (G12C) in non-small cell lung cancer, resulting in regulatory approval of two agents-sotorasib and adagrasib. Inhibitors targeting other variants beyond G12C have shown preliminary antitumor activity in highly refractory malignancies such as pancreatic cancer. Herein, we outline RAS pathobiology with a focus on KRAS, illustrate therapeutic approaches across a variety of malignancies, including emphasis on the 'on' and 'off' switch allele-specific and 'pan' RAS inhibitors, and review immunotherapeutic and other key combination RAS targeting strategies. We summarize mechanistic understanding of de novo and acquired resistance, review combination approaches, emerging technologies and drug development paradigms and outline a blueprint for the future of KRAS therapeutics with anticipated profound clinical impact."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38637634/"
+    },
+    {
+      "pmid": "34161704",
+      "title": "Acquired Resistance to KRASG12C Inhibition in Cancer.",
+      "journal": "The New England journal of medicine",
+      "date": "Jun 2021",
+      "authors": "Awad MM, Liu S, Rybkin II et al.",
+      "summary": "Diverse genomic and histologic mechanisms impart resistance to covalent KRASG12C inhibitors, and new therapeutic strategies are required to delay and overcome this drug resistance in patients with cancer. (Funded by Mirati Therapeutics and others;...",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Clinical trials of the KRAS inhibitors adagrasib and sotorasib have shown promising activity in cancers harboring KRAS glycine-to-cysteine amino acid substitutions at codon 12 (KRASG12C). The mechanisms of acquired resistance to these therapies are currently unknown."
+        },
+        {
+          "label": "METHODS",
+          "text": "Among patients with KRASG12C -mutant cancers treated with adagrasib monotherapy, we performed genomic and histologic analyses that compared pretreatment samples with those obtained after the development of resistance. Cell-based experiments were conducted to study mutations that confer resistance to KRASG12C inhibitors."
+        },
+        {
+          "label": "RESULTS",
+          "text": "A total of 38 patients were included in this study: 27 with non-small-cell lung cancer, 10 with colorectal cancer, and 1 with appendiceal cancer. Putative mechanisms of resistance to adagrasib were detected in 17 patients (45% of the cohort), of whom 7 (18% of the cohort) had multiple coincident mechanisms. Acquired KRAS alterations included G12D/R/V/W, G13D, Q61H, R68S, H95D/Q/R, Y96C, and high-level amplification of the KRASG12C allele. Acquired bypass mechanisms of resistance included MET amplification; activating mutations in NRAS, BRAF, MAP2K1, and RET; oncogenic fusions involving ALK, RET, BRAF, RAF1, and FGFR3; and loss-of-function mutations in NF1 and PTEN. In two of nine patients with lung adenocarcinoma for whom paired tissue-biopsy samples were available, histologic transformation to squamous-cell carcinoma was observed without identification of any other resistance mechanisms. Using an in vitro deep mutational scanning screen, we systematically defined the landscape of KRAS mutations that confer resistance to KRASG12C inhibitors."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Diverse genomic and histologic mechanisms impart resistance to covalent KRASG12C inhibitors, and new therapeutic strategies are required to delay and overcome this drug resistance in patients with cancer. (Funded by Mirati Therapeutics and others; ClinicalTrials.gov number, NCT03785249.)."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34161704/"
+    },
+    {
+      "pmid": "29773717",
+      "title": "STK11/LKB1 Mutations and PD-1 Inhibitor Resistance in KRAS-Mutant Lung Adenocarcinoma.",
+      "journal": "Cancer discovery",
+      "date": "Jul 2018",
+      "authors": "Skoulidis F, Goldberg ME, Greenawalt DM et al.",
+      "summary": "KRAS is the most common oncogenic driver in lung adenocarcinoma (LUAC). We previously reported that STK11/LKB1 (KL) or TP53 (KP) comutations define distinct subgroups of KRAS-mutant LUAC.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "KRAS is the most common oncogenic driver in lung adenocarcinoma (LUAC). We previously reported that STK11/LKB1 (KL) or TP53 (KP) comutations define distinct subgroups of KRAS-mutant LUAC. Here, we examine the efficacy of PD-1 inhibitors in these subgroups. Objective response rates to PD-1 blockade differed significantly among KL (7.4%), KP (35.7%), and K-only (28.6%) subgroups (P < 0.001) in the Stand Up To Cancer (SU2C) cohort (174 patients) with KRAS-mutant LUAC and in patients treated with nivolumab in the CheckMate-057 phase III trial (0% vs. 57.1% vs. 18.2%; P = 0.047). In the SU2C cohort, KL LUAC exhibited shorter progression-free (P < 0.001) and overall (P = 0.0015) survival compared with KRASMUT;STK11/LKB1WT LUAC. Among 924 LUACs, STK11/LKB1 alterations were the only marker significantly associated with PD-L1 negativity in TMBIntermediate/High LUAC. The impact of STK11/LKB1 alterations on clinical outcomes with PD-1/PD-L1 inhibitors extended to PD-L1-positive non-small cell lung cancer. In Kras-mutant murine LUAC models, Stk11/Lkb1 loss promoted PD-1/PD-L1 inhibitor resistance, suggesting a causal role. Our results identify STK11/LKB1 alterations as a major driver of primary resistance to PD-1 blockade in KRAS-mutant LUAC.Significance: This work identifies STK11/LKB1 alterations as the most prevalent genomic driver of primary resistance to PD-1 axis inhibitors in KRAS-mutant lung adenocarcinoma. Genomic profiling may enhance the predictive utility of PD-L1 expression and tumor mutation burden and facilitate establishment of personalized combination immunotherapy approaches for genomically defined LUAC subsets. Cancer Discov; 8(7); 822-35. \u00a92018 AACR.See related commentary by Etxeberria et al., p. 794This article is highlighted in the In This Issue feature, p. 781."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29773717/"
+    },
+    {
+      "pmid": "35658005",
+      "title": "Adagrasib in Non-Small-Cell Lung Cancer Harboring a KRASG12C Mutation.",
+      "journal": "The New England journal of medicine",
+      "date": "Jul 2022",
+      "authors": "J\u00e4nne PA, Riely GJ, Gadgeel SM et al.",
+      "summary": "In patients with previously treated KRASG12C -mutated NSCLC, adagrasib showed clinical efficacy without new safety signals. (Funded by Mirati Therapeutics; ClinicalTrials.gov number, NCT03785249.).",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Adagrasib, a KRASG12C inhibitor, irreversibly and selectively binds KRASG12C, locking it in its inactive state. Adagrasib showed clinical activity and had an acceptable adverse-event profile in the phase 1-1b part of the KRYSTAL-1 phase 1-2 study."
+        },
+        {
+          "label": "METHODS",
+          "text": "In a registrational phase 2 cohort, we evaluated adagrasib (600 mg orally twice daily) in patients with KRASG12C -mutated non-small-cell lung cancer (NSCLC) previously treated with platinum-based chemotherapy and anti-programmed death 1 or programmed death ligand 1 therapy. The primary end point was objective response assessed by blinded independent central review. Secondary end points included the duration of response, progression-free survival, overall survival, and safety."
+        },
+        {
+          "label": "RESULTS",
+          "text": "As of October 15, 2021, a total of 116 patients with KRASG12C -mutated NSCLC had been treated (median follow-up, 12.9 months); 98.3% had previously received both chemotherapy and immunotherapy. Of 112 patients with measurable disease at baseline, 48 (42.9%) had a confirmed objective response. The median duration of response was 8.5 months (95% confidence interval [CI], 6.2 to 13.8), and the median progression-free survival was 6.5 months (95% CI, 4.7 to 8.4). As of January 15, 2022 (median follow-up, 15.6 months), the median overall survival was 12.6 months (95% CI, 9.2 to 19.2). Among 33 patients with previously treated, stable central nervous system metastases, the intracranial confirmed objective response rate was 33.3% (95% CI, 18.0 to 51.8). Treatment-related adverse events occurred in 97.4% of the patients - grade 1 or 2 in 52.6% and grade 3 or higher in 44.8% (including two grade 5 events) - and resulted in drug discontinuation in 6.9% of patients."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In patients with previously treated KRASG12C -mutated NSCLC, adagrasib showed clinical efficacy without new safety signals. (Funded by Mirati Therapeutics; ClinicalTrials.gov number, NCT03785249.)."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35658005/"
+    },
+    {
+      "pmid": "30021885",
+      "title": "PP2A inhibition is a druggable MEK inhibitor resistance mechanism in KRAS-mutant lung cancer cells.",
+      "journal": "Science translational medicine",
+      "date": "Jul 2018",
+      "authors": "Kauko O, O'Connor CM, Kulesskiy E et al.",
+      "summary": "Kinase inhibitor resistance constitutes a major unresolved clinical challenge in cancer. Furthermore, the role of serine/threonine phosphatase deregulation as a potential cause for resistance to kinase inhibitors has not been thoroughly addressed.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Kinase inhibitor resistance constitutes a major unresolved clinical challenge in cancer. Furthermore, the role of serine/threonine phosphatase deregulation as a potential cause for resistance to kinase inhibitors has not been thoroughly addressed. We characterize protein phosphatase 2A (PP2A) activity as a global determinant of KRAS-mutant lung cancer cell resistance across a library of >200 kinase inhibitors. The results show that PP2A activity modulation alters cancer cell sensitivities to a large number of kinase inhibitors. Specifically, PP2A inhibition ablated mitogen-activated protein kinase kinase (MEK) inhibitor response through the collateral activation of AKT/mammalian target of rapamycin (mTOR) signaling. Combination of mTOR and MEK inhibitors induced cytotoxicity in PP2A-inhibited cells, but even this drug combination could not abrogate MYC up-regulation in PP2A-inhibited cells. Treatment with an orally bioavailable small-molecule activator of PP2A DT-061, in combination with the MEK inhibitor AZD6244, resulted in suppression of both p-AKT and MYC, as well as tumor regression in two KRAS-driven lung cancer mouse models. DT-061 therapy also abrogated MYC-driven tumorigenesis. These data demonstrate that PP2A deregulation drives MEK inhibitor resistance in KRAS-mutant cells. These results emphasize the need for better understanding of phosphatases as key modulators of cancer therapy responses."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30021885/"
+    },
+    {
+      "pmid": "41879829",
+      "title": "Setidegrasib in Advanced Non-Small-Cell Lung Cancer and Pancreatic Cancer.",
+      "journal": "The New England journal of medicine",
+      "date": "Apr 2026",
+      "authors": "Park W, Kasi A, Spira AI et al.",
+      "summary": "Setidegrasib was associated with antitumor activity and a low incidence of treatment discontinuation due to adverse events in patients with previously treated advanced KRAS p.G12D-mutated NSCLC or pancreatic ductal adenocarcinoma. (Funded by Astellas...",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "The KRAS p.G12D variant occurs in 5% of patients with non-small-cell lung cancer (NSCLC) and is the most common substitution variant in pancreatic ductal adenocarcinoma, occurring in 40% of patients, but no targeted therapies directed against this variant are currently approved for clinical use. Setidegrasib (ASP3082) is a first-in-class KRAS G12D-targeted protein degrader."
+        },
+        {
+          "label": "METHODS",
+          "text": "We conducted this phase 1 study to evaluate the safety, pharmacokinetics, pharmacodynamics, and antitumor activity of setidegrasib in patients with previously treated advanced solid tumors harboring KRAS p.G12D variants. The primary objectives were to evaluate the safety profile, as indicated by dose-limiting toxic effects and adverse events (the primary end points), and to determine the phase 2 dose. Setidegrasib was administered intravenously once weekly at doses of 10 to 800 mg."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Overall, 203 patients were enrolled. Among the 76 patients who received setidegrasib at a dose of 600 mg, which was ultimately selected as the phase 2 dose, adverse events occurred during treatment in all the patients, with events of grade 3 or higher in 42%. Treatment-related adverse events occurred in 93% of the patients; the most common were transient infusion-related reactions (in 80%) and nausea (in 30%). Adverse events led to discontinuation in 2 patients. Among the 45 patients with NSCLC who received the 600-mg dose, 36% (95% confidence interval [CI], 22 to 51) had a partial response, the median progression-free survival was 8.3 months (95% CI, 4.1 to could not be estimated), and the estimated 12-month overall survival was 59% (95% CI, 40 to 74). Among the 21 patients with metastatic pancreatic ductal adenocarcinoma who received the 600-mg dose as second- or third-line treatment (of whom 67% received setidegrasib as third-line treatment), 24% (95% CI, 8 to 47) had a response, the median progression-free survival was 3.0 months (95% CI, 1.4 to 6.9), and the median overall survival was 10.3 months (95% CI, 4.2 to 13.0)."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Setidegrasib was associated with antitumor activity and a low incidence of treatment discontinuation due to adverse events in patients with previously treated advanced KRAS p.G12D-mutated NSCLC or pancreatic ductal adenocarcinoma. (Funded by Astellas Pharma; ClinicalTrials.gov number, NCT05382559.)."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41879829/"
+    },
+    {
+      "pmid": "39762419",
+      "title": "Glecirasib in KRASG12C-mutated nonsmall-cell lung cancer: a phase 2b trial.",
+      "journal": "Nature medicine",
+      "date": "Mar 2025",
+      "authors": "Shi Y, Fang J, Xing L et al.",
+      "summary": "Glecirasib (JAB-21822) is a new covalent oral KRAS-G12C inhibitor. This multicenter, single-arm phase 2b study assessed the efficacy and safety of glecirasib administered orally at 800\u2009mg daily in patients with locally advanced or metastatic...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Glecirasib (JAB-21822) is a new covalent oral KRAS-G12C inhibitor. This multicenter, single-arm phase 2b study assessed the efficacy and safety of glecirasib administered orally at 800\u2009mg daily in patients with locally advanced or metastatic KRASG12C-mutated nonsmall-cell lung cancer. The primary endpoint was the objective response rate (ORR) assessed by an independent review committee (IRC). Between 15 September 2022 and 28 September 2023, 119 patients with a median age of 62\u2009years were enrolled. As of the data cut-off date on 28 March 2024, the ORR assessed by IRC was 47.9% (56/117; 95% confidence interval: 38.5-57.3%). The incidence of treatment-related adverse events (TRAEs) of any grade was 97.5% (116/119). The incidence of grades 3 and 4 TRAEs was 38.7% (46/119). A total of 5.0% (6/119) of patients discontinued the treatment due to TRAEs. No treatment-related deaths occurred. Glecirasib exhibited promising clinical efficacy and manageable safety profiles in these patient populations. ClinicalTrials.gov identifier: NCT05009329 ."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39762419/"
+    },
+    {
+      "pmid": "39499616",
+      "title": "USP7 deubiquitinates KRAS and promotes non-small cell lung cancer.",
+      "journal": "Cell reports",
+      "date": "Nov 2024",
+      "authors": "Huang B, Cao D, Yuan X et al.",
+      "summary": "RAS oncogenic mutations are pivotal drivers of tumorigenesis. Ubiquitination modulates RAS functions, including activation, stability, and localization.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "RAS oncogenic mutations are pivotal drivers of tumorigenesis. Ubiquitination modulates RAS functions, including activation, stability, and localization. While several E3 ligases regulate RAS ubiquitination, RAS deubiquitination remains less understood. Our study reveals that ubiquitin-specific protease 7 (USP7) directly deubiquitinates KRAS, stabilizing it and promoting the proliferation of non-small cell lung cancer (NSCLC) cells. Mechanistically, USP7 binds KRAS via its TRAF domain and removes the K48-linked polyubiquitin chains from residue K147. In addition, USP7 also stabilizes oncogenic KRAS mutants through deubiquitination. In lung cancer tissues, high USP7 expression is positively correlated with KRAS and is associated with lower patient survival rates. Moreover, USP7 inhibitors suppress NSCLC cell proliferation, particularly in cells resistant to the KRAS-G12C inhibitor AMG510. In conclusion, our findings identify USP7 as a key deubiquitinase regulating RAS stability, and targeting USP7 is a promising strategy to counteract KRAS inhibitor resistance in NSCLC."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39499616/"
+    },
+    {
+      "pmid": "31666701",
+      "title": "The clinical KRAS(G12C) inhibitor AMG 510 drives anti-tumour immunity.",
+      "journal": "Nature",
+      "date": "Nov 2019",
+      "authors": "Canon J, Rex K, Saiki AY et al.",
+      "summary": "KRAS is the most frequently mutated oncogene in cancer and encodes a key signalling protein in tumours1,2. The KRAS(G12C) mutant has a cysteine residue that has been exploited to design covalent inhibitors that have promising preclinical activity3-5.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "KRAS is the most frequently mutated oncogene in cancer and encodes a key signalling protein in tumours1,2. The KRAS(G12C) mutant has a cysteine residue that has been exploited to design covalent inhibitors that have promising preclinical activity3-5. Here we optimized a series of inhibitors, using\u00a0novel binding interactions to\u00a0markedly enhance their\u00a0potency and selectivity. Our efforts have led to the discovery of AMG 510, which is, to our knowledge, the first KRAS(G12C) inhibitor in clinical development. In preclinical analyses, treatment with AMG 510 led to the regression of KRASG12C tumours and improved the anti-tumour efficacy of chemotherapy and targeted agents. In immune-competent mice, treatment with AMG 510 resulted in a pro-inflammatory tumour microenvironment and produced\u00a0durable cures alone as well as in combination with immune-checkpoint inhibitors. Cured mice rejected the growth of isogenic KRASG12D tumours, which suggests adaptive immunity against shared antigens. Furthermore, in clinical trials, AMG 510 demonstrated anti-tumour activity in the first dosing cohorts and represents a potentially transformative therapy for patients for whom effective treatments are lacking."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31666701/"
+    },
+    {
+      "pmid": "34096690",
+      "title": "Sotorasib for Lung Cancers with KRAS p.G12C Mutation.",
+      "journal": "The New England journal of medicine",
+      "date": "Jun 2021",
+      "authors": "Skoulidis F, Li BT, Dy GK et al.",
+      "summary": "In this phase 2 trial, sotorasib therapy led to a durable clinical benefit without new safety signals in patients with previously treated KRAS p.G12C-mutated NSCLC. (Funded by Amgen and the National Institutes of Health; CodeBreaK100 ClinicalTrials.gov...",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Sotorasib showed anticancer activity in patients with KRAS p.G12C-mutated advanced solid tumors in a phase 1 study, and particularly promising anticancer activity was observed in a subgroup of patients with non-small-cell lung cancer (NSCLC)."
+        },
+        {
+          "label": "METHODS",
+          "text": "In a single-group, phase 2 trial, we investigated the activity of sotorasib, administered orally at a dose of 960 mg once daily, in patients with KRAS p.G12C-mutated advanced NSCLC previously treated with standard therapies. The primary end point was objective response (complete or partial response) according to independent central review. Key secondary end points included duration of response, disease control (defined as complete response, partial response, or stable disease), progression-free survival, overall survival, and safety. Exploratory biomarkers were evaluated for their association with response to sotorasib therapy."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Among the 126 enrolled patients, the majority (81.0%) had previously received both platinum-based chemotherapy and inhibitors of programmed death 1 (PD-1) or programmed death ligand 1 (PD-L1). According to central review, 124 patients had measurable disease at baseline and were evaluated for response. An objective response was observed in 46 patients (37.1%; 95% confidence interval [CI], 28.6 to 46.2), including in 4 (3.2%) who had a complete response and in 42 (33.9%) who had a partial response. The median duration of response was 11.1 months (95% CI, 6.9 to could not be evaluated). Disease control occurred in 100 patients (80.6%; 95% CI, 72.6 to 87.2). The median progression-free survival was 6.8 months (95% CI, 5.1 to 8.2), and the median overall survival was 12.5 months (95% CI, 10.0 to could not be evaluated). Treatment-related adverse events occurred in 88 of 126 patients (69.8%), including grade 3 events in 25 patients (19.8%) and a grade 4 event in 1 (0.8%). Responses were observed in subgroups defined according to PD-L1 expression, tumor mutational burden, and co-occurring mutations in STK11, KEAP1, or TP53."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In this phase 2 trial, sotorasib therapy led to a durable clinical benefit without new safety signals in patients with previously treated KRAS p.G12C-mutated NSCLC. (Funded by Amgen and the National Institutes of Health; CodeBreaK100 ClinicalTrials.gov number, NCT03600883.)."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34096690/"
+    }
+  ],
+  "CAR-T therapy for lupus": [
+    {
+      "pmid": "36109639",
+      "title": "Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus.",
+      "journal": "Nature medicine",
+      "date": "Oct 2022",
+      "authors": "Mackensen A, M\u00fcller F, Mougiakakos D et al.",
+      "summary": "Systemic lupus erythematosus (SLE) is a life-threatening autoimmune disease characterized by adaptive immune system activation, formation of double-stranded DNA autoantibodies and organ inflammation. Five patients with SLE (four women and one man) with a...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Systemic lupus erythematosus (SLE) is a life-threatening autoimmune disease characterized by adaptive immune system activation, formation of double-stranded DNA autoantibodies and organ inflammation. Five patients with SLE (four women and one man) with a median (range) age of 22 (6) years, median (range) disease duration of 4 (8) years and active disease (median (range) SLE disease activity index Systemic Lupus Erythematosus Disease Activity Index: 16 (8)) refractory to several immunosuppressive drug treatments were enrolled in a compassionate-use chimeric antigen receptor (CAR) T cell program. Autologous T cells from patients with SLE were transduced with a lentiviral anti-CD19 CAR vector, expanded and reinfused at a dose of 1\u2009\u00d7\u2009106 CAR T cells per kg body weight into the patients after lymphodepletion with fludarabine and cyclophosphamide. CAR T cells expanded in vivo, led to deep depletion of B cells, improvement of clinical symptoms and normalization of laboratory parameters including seroconversion of anti-double-stranded DNA antibodies. Remission of SLE according to DORIS criteria was achieved in all five patients after 3 months and the median (range) Systemic Lupus Erythematosus Disease Activity Index score after 3 months was 0 (2). Drug-free remission was maintained during longer follow-up (median (range) of 8 (12) months after CAR T cell administration) and even after the reappearance of B cells, which was observed after a mean (\u00b1s.d.) of 110\u2009\u00b1\u200932\u2009d after CAR T cell treatment. Reappearing B cells were na\u00efve and showed non-class-switched B cell receptors. CAR T cell treatment was well tolerated with only mild cytokine-release syndrome. These data suggest that CD19 CAR T cell transfer is feasible, tolerable and highly effective in SLE."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36109639/"
+    },
+    {
+      "pmid": "39749335",
+      "title": "CAR T-cell therapy for systemic lupus erythematosus: current status and future perspectives.",
+      "journal": "Frontiers in immunology",
+      "date": "2024",
+      "authors": "Zhou J, Lei B, Shi F et al.",
+      "summary": "Systemic lupus erythematosus (SLE) and lupus nephritis (LN) are debilitating autoimmune disorders characterized by pathological autoantibodies production and immune dysfunction, causing chronic inflammation and multi-organ damage. Despite current...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Systemic lupus erythematosus (SLE) and lupus nephritis (LN) are debilitating autoimmune disorders characterized by pathological autoantibodies production and immune dysfunction, causing chronic inflammation and multi-organ damage. Despite current treatments with antimalarial drugs, glucocorticoids, immunosuppressants, and monoclonal antibodies, a definitive cure remains elusive, highlighting an urgent need for novel therapeutic strategies. Recent studies indicate that chimeric antigen receptor T-cell (CAR-T) therapy has shown promising results in treating B-cell malignancies and may offer a significant breakthrough for non-malignant conditions like SLE. In this paper, we aim to provide an in-depth analysis of the advancements in CAR-T therapy for SLE, focusing on its potential to revolutionize treatment for this complex disease. We explore the fundamental mechanisms of CAR-T cell action, the rationale for its application in SLE, and the immunological underpinnings of the disease. We also summarize clinical data on the safety and efficacy of anti-CD19 and anti-B cell maturation antigen (BCMA) CAR-T cells in targeting B-cells in SLE. We discuss the clinical implications of these findings and the potential for CAR-T therapy to improve outcomes in severe or refractory SLE cases. The integration of CAR-T therapy into the SLE treatment paradigm presents a new horizon in autoimmunity research and clinical practice. This review underscores the need for continued exploration and optimization of CAR-T strategies to address the unmet needs of SLE patients."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39749335/"
+    },
+    {
+      "pmid": "37748491",
+      "title": "CAR T-cell therapy in autoimmune diseases.",
+      "journal": "Lancet (London, England)",
+      "date": "Nov 2023",
+      "authors": "Schett G, Mackensen A, Mougiakakos D",
+      "summary": "Despite the tremendous progress in the clinical management of autoimmune diseases, many patients do not respond to the currently used treatments. Autoreactive B cells play a key role in the pathogenesis of autoimmune diseases, such as systemic lupus...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Despite the tremendous progress in the clinical management of autoimmune diseases, many patients do not respond to the currently used treatments. Autoreactive B cells play a key role in the pathogenesis of autoimmune diseases, such as systemic lupus erythematosus, rheumatoid arthritis, and multiple sclerosis. B-cell-depleting monoclonal antibodies, such as rituximab, have poor therapeutic efficacy in autoimmune diseases, mainly due to the persistence of autoreactive B cells in lymphatic organs and inflamed tissues. The adoptive transfer of T cells engineered to target tumour cells via chimeric antigen receptors (CARs) has emerged as an effective treatment modality in B-cell malignancies. In the last 2 years treatment with autologous CAR T cells directed against the CD19 antigen has been introduced in therapy of autoimmune disease. CD19 CAR T cells induced a rapid and sustained depletion of circulating B cells, as well as in a complete clinical and serological remission of refractory systemic lupus erythematosus and dermatomyositis. In this paper, we discuss the evolving strategies for targeting autoreactive B cells via CAR T cells, which might be used for targeted therapy in autoimmune diseases."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37748491/"
+    },
+    {
+      "pmid": "38381673",
+      "title": "CD19 CAR T-Cell Therapy in Autoimmune Disease - A Case Series with Follow-up.",
+      "journal": "The New England journal of medicine",
+      "date": "Feb 2024",
+      "authors": "M\u00fcller F, Taubmann J, Bucci L et al.",
+      "summary": "In this case series, CD19 CAR T-cell transfer appeared to be feasible, safe, and efficacious in three different autoimmune diseases, providing rationale for further controlled clinical trials. (Funded by Deutsche Forschungsgemeinschaft and others.).",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Treatment for autoimmune diseases such as systemic lupus erythematosus (SLE), idiopathic inflammatory myositis, and systemic sclerosis often involves long-term immune suppression. Resetting aberrant autoimmunity in these diseases through deep depletion of B cells is a potential strategy for achieving sustained drug-free remission."
+        },
+        {
+          "label": "METHODS",
+          "text": "We evaluated 15 patients with severe SLE (8 patients), idiopathic inflammatory myositis (3 patients), or systemic sclerosis (4 patients) who received a single infusion of CD19 chimeric antigen receptor (CAR) T cells after preconditioning with fludarabine and cyclophosphamide. Efficacy up to 2 years after CAR T-cell infusion was assessed by means of Definition of Remission in SLE (DORIS) remission criteria, American College of Rheumatology-European League against Rheumatism (ACR-EULAR) major clinical response, and the score on the European Scleroderma Trials and Research Group (EUSTAR) activity index (with higher scores indicating greater disease activity), among others. Safety variables, including cytokine release syndrome and infections, were recorded."
+        },
+        {
+          "label": "RESULTS",
+          "text": "The median follow-up was 15 months (range, 4 to 29). The mean (\u00b1SD) duration of B-cell aplasia was 112\u00b147 days. All the patients with SLE had DORIS remission, all the patients with idiopathic inflammatory myositis had an ACR-EULAR major clinical response, and all the patients with systemic sclerosis had a decrease in the score on the EUSTAR activity index. Immunosuppressive therapy was completely stopped in all the patients. Grade 1 cytokine release syndrome occurred in 10 patients. One patient each had grade 2 cytokine release syndrome, grade 1 immune effector cell-associated neurotoxicity syndrome, and pneumonia that resulted in hospitalization."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In this case series, CD19 CAR T-cell transfer appeared to be feasible, safe, and efficacious in three different autoimmune diseases, providing rationale for further controlled clinical trials. (Funded by Deutsche Forschungsgemeinschaft and others.)."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38381673/"
+    },
+    {
+      "pmid": "38336271",
+      "title": "CAR-T cells for treating systemic lupus erythematosus: A promising emerging therapy.",
+      "journal": "Joint bone spine",
+      "date": "Sep 2024",
+      "authors": "Guffroy A, Jacquel L, Guffroy B et al.",
+      "summary": "Chimeric Antigen Receptor T-cell therapy (CAR-T), currently employed routinely for treating B-cell malignancies, has emerged as a groundbreaking approach in addressing severe autoimmune diseases, especially for systemic lupus erythematosus (SLE). The...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Chimeric Antigen Receptor T-cell therapy (CAR-T), currently employed routinely for treating B-cell malignancies, has emerged as a groundbreaking approach in addressing severe autoimmune diseases, especially for systemic lupus erythematosus (SLE). The immunological rationale for targeting B lymphocytes in autoimmune diseases is well-established, demonstrating success in numerous autoantibody-mediated autoimmune conditions through targeted therapies over several years. However, this approach has often proven ineffective in the context of systemic lupus erythematosus. Recent data on CAR-T usage in lupus, revealed promising results including rapid and prolonged remission without treatment, highlighting the potential of CAR-T therapy in severe lupus cases. This article provides a comprehensive overview of CAR-T cells, tracing their evolution from hematological malignancies to their recent applications in autoimmune disorder, especially in lupus. Clinical trials within a regulated framework are now imperative to assess the procedural aspects in order to validate the considerable promise of CAR-T cell therapy in the field of autoimmune diseases. This includes evaluating safety and long-term efficacy and security of the procedure, the benefit-risk ratio in the field of autoimmunity, the availability and cost-related issues associated with this emerging cellular therapy procedure."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38336271/"
+    },
+    {
+      "pmid": "38777376",
+      "title": "BCMA-CD19 compound CAR T cells for systemic lupus erythematosus: a phase 1 open-label clinical trial.",
+      "journal": "Annals of the rheumatic diseases",
+      "date": "Sep 2024",
+      "authors": "Wang W, He S, Zhang W et al.",
+      "summary": "Data suggest that cCAR therapy was safe and effective in inducing MFR and depleting disease-causing autoantibodies in patients with SLE.",
+      "abstract": [
+        {
+          "label": "OBJECTIVES",
+          "text": "This study aims to evaluate the safety and efficacy of BCMA-CD19 compound chimeric antigen receptor T cells (cCAR) to dual reset the humoral and B cell immune system in patients with systemic lupus erythematosus (SLE) with lupus nephritis (LN)."
+        },
+        {
+          "label": "METHODS",
+          "text": "This is a single-arm open-label multicentre phase 1 study of BCMA and CD19-directed cCAR in patients suffering from SLE/LN with autoantibodies produced by B cells and plasma/long-lived plasma cells. In this clinical trial, we sequentially assigned biopsy-confirmed (classes III-V) LN patients to receive 3\u00d7106\u2009cCAR cells/kg postcessation of all SLE medications and conditioning. The primary endpoint of safety and toxicity was assessed. Complete immune reset was indicated by B cell receptor (BCR) deep sequencing and flow cytometry analysis. Patient 11 (P11) had insufficient lymphocyte counts and was underdosed as compassionate use."
+        },
+        {
+          "label": "RESULTS",
+          "text": "P1 and P2 achieved symptom and medication-free remission (MFR) from SLE and complete remission from lymphoma. P3-P13 (excluding P11) received an initial dose of 3\u00d7106\u2009cCAR cells /kg and were negative for all autoantibodies, including those derived from long-lived plasma cells, 3\u2009months post-cCAR and the complement returned to normal levels. These patients achieved symptom and MFR with post-cCAR follow-up to 46\u2009months. Complete recovery of B cells was seen in 2-6\u2009months post-cCAR. Mean SLE Disease Activity Index 2000 reduced from 10.6 (baseline) to 2.7 (3 months), and renal function significantly improved in 10 LN patients \u226490 days post-cCAR. cCAR T therapy was well tolerant with mild cytokine-release syndrome."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Data suggest that cCAR therapy was safe and effective in inducing MFR and depleting disease-causing autoantibodies in patients with SLE."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38777376/"
+    },
+    {
+      "pmid": "41258618",
+      "title": "CAR T Cell Therapy for Rheumatoid Arthritis.",
+      "journal": "Clinical reviews in allergy & immunology",
+      "date": "Nov 2025",
+      "authors": "Freeley M",
+      "summary": "Chimeric Antigen Receptor (CAR) T cell therapy has revolutionised the treatment of relapsed/refractory B cell leukaemia, lymphoma and multiple myeloma through targeting of CD19 and BCMA antigens on the surface of these cells. A growing body of evidence has...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Chimeric Antigen Receptor (CAR) T cell therapy has revolutionised the treatment of relapsed/refractory B cell leukaemia, lymphoma and multiple myeloma through targeting of CD19 and BCMA antigens on the surface of these cells. A growing body of evidence has recently demonstrated that these cell-based therapies can also target autoimmune diseases including systemic lupus erythematosus, systemic sclerosis, neuromyelitis optica spectrum disorder, myasthenia gravis, idiopathic inflammatory myositis, multiple sclerosis and rheumatoid arthritis. To date, ten patients with rheumatoid arthritis have been treated with CAR T cells targeting CD19/CD20 or BCMA antigens on B cells. Nine patients with seropositive disease have shown remarkable responses, including depletion of circulating B cells, ablation of autoantibody levels and drug-free remission. A tenth patient with seronegative disease initially responded to CAR T cell therapy but later relapsed. This review provides in-depth analysis of these single case studies and highlights emerging in-vitro and animal model studies where T cell subsets have been engineered with CARs to fine-tune their immune responses for the treatment of rheumatoid arthritis, including targeting of autoreactive B cells, autoreactive T cells or fibroblasts. CAR T cell therapy holds enormous promise for the treatment of difficult-to-treat rheumatoid arthritis, but more research and large clinical trials are needed to confirm its efficacy and safety."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41258618/"
+    },
+    {
+      "pmid": "41028170",
+      "title": "In vivo chimeric antigen receptor (CAR)-T cell therapy.",
+      "journal": "Nature reviews. Drug discovery",
+      "date": "Feb 2026",
+      "authors": "Bot A, Scharenberg A, Friedman K et al.",
+      "summary": "Chimeric antigen receptor (CAR)-T cell therapy has transformed the outcomes of patients with haematological malignancies, yet its use is limited by labour-intensive manufacturing, constrained production capacity and variable clinical performance. In vivo...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Chimeric antigen receptor (CAR)-T cell therapy has transformed the outcomes of patients with haematological malignancies, yet its use is limited by labour-intensive manufacturing, constrained production capacity and variable clinical performance. In vivo CAR-T cell engineering, in which CAR-T cells are generated directly inside the patient's body, seeks to overcome these challenges by eliminating the need for ex vivo cell processing and complex logistics, as well as improve clinical performance. Recent advances in virology, RNA medicines and nanotechnology have catalysed a radical overhaul of this approach, which uses targeted delivery systems such as lentiviral vectors and lipid nanoparticles to introduce CAR-encoding genetic material into endogenous T cells. Early clinical studies have shown efficient transduction, sustained CAR expression and initial signs of antitumour activity, establishing proof of concept. This Review explores the underlying technologies - including RNA delivered by lipid nanoparticles and engineered viral vectors - and discusses how they are being adapted to develop more broadly applicable, scalable, safe and effective CAR-T cell therapies. By removing the need for ex vivo manipulation and chemotherapeutic conditioning, this strategy could enable the wider application of CAR-T cell therapies not just to blood cancers but to autoimmune diseases for which ex vivo CAR-T cell therapies have shown strong promise, such as systemic lupus erythematosus."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41028170/"
+    },
+    {
+      "pmid": "39742256",
+      "title": "CD19 CAR-T cell therapy: a new dawn for autoimmune rheumatic diseases?",
+      "journal": "Frontiers in immunology",
+      "date": "2024",
+      "authors": "Rangel-Pel\u00e1ez C, Mart\u00ednez-Guti\u00e9rrez L, Trist\u00e1n-Manzano M et al.",
+      "summary": "Autoimmune rheumatic diseases (ARDs), such as rheumatoid arthritis, systemic lupus erythematosus, and systemic sclerosis, involve dysregulated immune responses causing chronic inflammation and tissue damage. Despite advancements in clinical management,...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Autoimmune rheumatic diseases (ARDs), such as rheumatoid arthritis, systemic lupus erythematosus, and systemic sclerosis, involve dysregulated immune responses causing chronic inflammation and tissue damage. Despite advancements in clinical management, many patients do not respond to current treatments, which often show limited efficacy due to the persistence of autoreactive B cells. Chimeric antigen receptor (CAR)-T cell therapy, which has shown success in oncology for B cell malignancies, targets specific antigens and involves the adoptive transfer of genetically engineered T cells. CD19 CAR-T cells, in particular, have shown promise in depleting circulating B cells and achieving clinical remission. This review discusses the potential of CD19 CAR-T cells in ARDs, highlighting clinical achievements and addressing key considerations such as optimal target cell populations, CAR construct design, acceptable toxicities, and the potential for lasting immune reset, crucial for the safe and effective adoption of CAR-T cell therapy in autoimmune treatments."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39742256/"
+    },
+    {
+      "pmid": "39107407",
+      "title": "Advancements and challenges in CAR T cell therapy in autoimmune diseases.",
+      "journal": "Nature reviews. Rheumatology",
+      "date": "Sep 2024",
+      "authors": "Schett G, M\u00fcller F, Taubmann J et al.",
+      "summary": "Chimeric antigen receptor (CAR) T cells are highly effective at targeting and eliminating cells of the B cell lineage. CAR T cell therapy has become a standard-of-care treatment for patients with relapsed or refractory B cell malignancies.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Chimeric antigen receptor (CAR) T cells are highly effective at targeting and eliminating cells of the B cell lineage. CAR T cell therapy has become a standard-of-care treatment for patients with relapsed or refractory B cell malignancies. In addition, the administration of genetically modified T cells with the capacity to deplete B cells and/or plasma cells has tremendous therapeutic potential in autoimmune diseases. In the past few years, CD19-based and B cell maturation antigen (BCMA)-based CAR T cell therapies have been applied to various B cell-mediated autoimmune diseases including systemic lupus erythematosus, idiopathic inflammatory myopathy, systemic sclerosis, neuromyelitis optica spectrum disorder, myasthenia gravis and multiple sclerosis. The scientific rationale behind this approach is that deep depletion of B cells, including autoreactive B cell clones, could restore normal immune function, referred to as an immune reset. In this Review, we discuss important aspects of CAR T cell therapy in autoimmune disease, including considerations relating to patient selection, safety, efficacy and medical management. These considerations are based on the early experiences of CAR T cell therapy in autoimmune diseases, and as the field of CAR T cell therapy in autoimmune diseases continues to rapidly evolve, these issues will remain subject to ongoing refinement and adaptation."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39107407/"
+    }
+  ],
+  "GLP-1 agonists and cardiovascular outcomes": [
+    {
+      "pmid": "39114288",
+      "title": "Mechanisms of action and therapeutic applications of GLP-1 and dual GIP/GLP-1 receptor agonists.",
+      "journal": "Frontiers in endocrinology",
+      "date": "2024",
+      "authors": "Liu QK",
+      "summary": "Glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) are two incretins that bind to their respective receptors and activate the downstream signaling in various tissues and organs. Both GIP and GLP-1 play roles in...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) are two incretins that bind to their respective receptors and activate the downstream signaling in various tissues and organs. Both GIP and GLP-1 play roles in regulating food intake by stimulating neurons in the brain's satiety center. They also stimulate insulin secretion in pancreatic \u03b2-cells, but their effects on glucagon production in pancreatic \u03b1-cells differ, with GIP having a glucagonotropic effect during hypoglycemia and GLP-1 exhibiting glucagonostatic effect during hyperglycemia. Additionally, GIP directly stimulates lipogenesis, while GLP-1 indirectly promotes lipolysis, collectively maintaining healthy adipocytes, reducing ectopic fat distribution, and increasing the production and secretion of adiponectin from adipocytes. Together, these two incretins contribute to metabolic homeostasis, preventing both hyperglycemia and hypoglycemia, mitigating dyslipidemia, and reducing the risk of cardiovascular diseases in individuals with type 2 diabetes and obesity. Several GLP-1 and dual GIP/GLP-1 receptor agonists have been developed to harness these pharmacological effects in the treatment of type 2 diabetes, with some demonstrating robust effectiveness in weight management and prevention of cardiovascular diseases. Elucidating the underlying cellular and molecular mechanisms could potentially usher in the development of new generations of incretin mimetics with enhanced efficacy and fewer adverse effects. The treatment guidelines are evolving based on clinical trial outcomes, shaping the management of metabolic and cardiovascular diseases."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39114288/"
+    },
+    {
+      "pmid": "33068776",
+      "title": "GLP-1 receptor agonists in the treatment of type 2 diabetes - state-of-the-art.",
+      "journal": "Molecular metabolism",
+      "date": "Apr 2021",
+      "authors": "Nauck MA, Quast DR, Wefers J et al.",
+      "summary": "GLP-1 receptor agonists (GLP-1 RAs) with exenatide b.i.d. first approved to treat type 2 diabetes in 2005 have been further developed to yield effective compounds/preparations that have overcome the original problem of rapid elimination (short half-life),...",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "GLP-1 receptor agonists (GLP-1 RAs) with exenatide b.i.d. first approved to treat type 2 diabetes in 2005 have been further developed to yield effective compounds/preparations that have overcome the original problem of rapid elimination (short half-life), initially necessitating short intervals between injections (twice daily for exenatide b.i.d.)."
+        },
+        {
+          "label": "SCOPE OF REVIEW",
+          "text": "To summarize current knowledge about GLP-1 receptor agonist."
+        },
+        {
+          "label": "MAJOR CONCLUSIONS",
+          "text": "At present, GLP-1 RAs are injected twice daily (exenatide b.i.d.), once daily (lixisenatide and liraglutide), or once weekly (exenatide once weekly, dulaglutide, albiglutide, and semaglutide). A daily oral preparation of semaglutide, which has demonstrated clinical effectiveness close to the once-weekly subcutaneous preparation, was recently approved. All GLP-1 RAs share common mechanisms of action: augmentation of hyperglycemia-induced insulin secretion, suppression of glucagon secretion at hyper- or euglycemia, deceleration of gastric emptying preventing large post-meal glycemic increments, and a reduction in calorie intake and body weight. Short-acting agents (exenatide b.i.d., lixisenatide) have reduced effectiveness on overnight and fasting plasma glucose, but maintain their effect on gastric emptying during long-term treatment. Long-acting GLP-1 RAs (liraglutide, once-weekly exenatide, dulaglutide, albiglutide, and semaglutide) have more profound effects on overnight and fasting plasma glucose and HbA1c, both on a background of oral glucose-lowering agents and in combination with basal insulin. Effects on gastric emptying decrease over time (tachyphylaxis). Given a similar, if not superior, effectiveness for HbA1c\u00a0reduction with additional weight reduction and no intrinsic risk of hypoglycemic episodes, GLP-1RAs are recommended as the preferred first injectable glucose-lowering therapy for type 2 diabetes, even before insulin treatment. However, GLP-1 RAs can be combined with (basal) insulin in either free- or fixed-dose preparations. More recently developed agents, in particular semaglutide, are characterized by greater efficacy with respect to lowering plasma glucose as well as body weight. Since 2016, several cardiovascular (CV) outcome studies have shown that GLP-1 RAs can effectively prevent CV events such as acute myocardial infarction or stroke and associated mortality. Therefore, guidelines particularly recommend treatment with GLP-1 RAs in patients with pre-existing atherosclerotic vascular disease (for example, previous CV events). The evidence of similar effects in lower-risk subjects is not quite as strong. Since sodium/glucose cotransporter-2 (SGLT-2) inhibitor treatment reduces CV events as well (with the effect mainly driven by a reduction in heart failure complications), the individual risk of ischemic or heart failure complications should guide the choice of treatment. GLP-1 RAs may also help prevent renal complications of type 2 diabetes. Other active research areas in the field of GLP-1 RAs are the definition of subgroups within the type 2 diabetes population who particularly benefit from treatment with GLP-1 RAs. These include pharmacogenomic approaches and the characterization of non-responders. Novel indications for GLP-1 RAs outside type 2 diabetes, such as type 1 diabetes, neurodegenerative diseases, and psoriasis, are being explored. Thus, within 15 years of their initial introduction, GLP-1 RAs have become a well-established class of glucose-lowering agents that has the potential for further development and growing impact for treating type 2 diabetes and potentially other diseases."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33068776/"
+    },
+    {
+      "pmid": "36977782",
+      "title": "Glucagon-like peptide 1 receptor agonists: cardiovascular benefits and mechanisms of action.",
+      "journal": "Nature reviews. Cardiology",
+      "date": "Jul 2023",
+      "authors": "Ussher JR, Drucker DJ",
+      "summary": "Type 2 diabetes mellitus (T2DM) and obesity are metabolic disorders characterized by excess cardiovascular risk. Glucagon-like peptide\u00a01 (GLP1) receptor (GLP1R) agonists reduce body weight, glycaemia, blood pressure, postprandial lipaemia and inflammation...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Type 2 diabetes mellitus (T2DM) and obesity are metabolic disorders characterized by excess cardiovascular risk. Glucagon-like peptide\u00a01 (GLP1) receptor (GLP1R) agonists reduce body weight, glycaemia, blood pressure, postprandial lipaemia and inflammation - actions that could contribute to the reduction of cardiovascular events. Cardiovascular outcome trials (CVOTs) have demonstrated that GLP1R agonists reduce the rates of major adverse cardiovascular events in patients with T2DM. Separate phase III CVOTs of GLP1R agonists are currently being conducted in people living with heart failure with preserved ejection fraction and in those with obesity. Mechanistically, GLP1R is expressed at low levels in the heart and vasculature, raising the possibility that GLP1 might have both direct and indirect actions on the cardiovascular system. In this Review, we summarize the data from CVOTs of GLP1R agonists in patients with T2DM and describe the actions of GLP1R agonists on the heart and blood vessels. We also assess the potential mechanisms that contribute to the reduction in major adverse cardiovascular events in individuals treated with GLP1R agonists and highlight the emerging cardiovascular biology of novel GLP1-based multi-agonists currently in development. Understanding how GLP1R signalling protects the heart and blood vessels will optimize the therapeutic use and development of next-generation GLP1-based therapies with improved cardiovascular safety."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36977782/"
+    },
+    {
+      "pmid": "37952217",
+      "title": "Estimated Lifetime Cardiovascular, Kidney, and Mortality Benefits of Combination Treatment With SGLT2 Inhibitors, GLP-1 Receptor Agonists, and Nonsteroidal MRA Compared With Conventional Care in Patients With Type 2 Diabetes and Albuminuria.",
+      "journal": "Circulation",
+      "date": "Feb 2024",
+      "authors": "Neuen BL, Heerspink HJL, Vart P et al.",
+      "summary": "In patients with type 2 diabetes and at least moderately increased albuminuria, combination treatment of SGLT2i, GLP-1 RA, and ns-MRA has the potential to afford relevant gains in cardiovascular and kidney event-free and overall survival.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Sodium glucose cotransporter 2 inhibitors (SGLT2i), glucagon-like peptide-1 receptor agonists (GLP-1 RA), and the nonsteroidal mineralocorticoid receptor antagonist (ns-MRA) finerenone all individually reduce cardiovascular, kidney, and mortality outcomes in patients with type 2 diabetes and albuminuria. However, the lifetime benefits of combination therapy with these medicines are not known."
+        },
+        {
+          "label": "METHODS",
+          "text": "We used data from 2 SGLT2i trials (CANVAS [Canagliflozin Cardiovascular Assessment] and CREDENCE [Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation]), 2 ns-MRA trials (FIDELIO-DKD [Finerenone in Reducing Kidney Failure and Disease Progression in Diabetic Kidney Disease] and FIGARO-DKD [Efficacy and Safety of Finerenone in Subjects With Type 2 Diabetes Mellitus and the Clinical Diagnosis of Diabetic Kidney Disease]), and 8 GLP-1 RA trials to estimate the relative effects of combination therapy versus conventional care (renin-angiotensin system blockade and traditional risk factor control) on cardiovascular, kidney, and mortality outcomes. Using actuarial methods, we then estimated absolute risk reductions with combination SGLT2i, GLP-1 RA, and ns-MRA in patients with type 2 diabetes and at least moderately increased albuminuria (urinary albumin:creatinine ratio \u226530 mg/g) by applying estimated combination treatment effects to participants receiving conventional care in CANVAS and CREDENCE."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Compared with conventional care, the combination of SGLT2i, GLP-1 RA, and ns-MRA was associated with a hazard ratio of 0.65 (95% CI, 0.55-0.76) for major adverse cardiovascular events (nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death). The corresponding estimated absolute risk reduction over 3 years was 4.4% (95% CI, 3.0-5.7), with a number needed to treat of 23 (95% CI, 18-33). For a 50-year-old patient commencing combination therapy, estimated major adverse cardiovascular event-free survival was 21.1 years compared with 17.9 years for conventional care (3.2 years gained [95% CI, 2.1-4.3]). There were also projected gains in survival free from hospitalized heart failure (3.2 years [95% CI, 2.4-4.0]), chronic kidney disease progression (5.5 years [95% CI, 4.0-6.7]), cardiovascular death (2.2 years [95% CI, 1.2-3.0]), and all-cause death (2.4 years [95% CI, 1.4-3.4]). Attenuated but clinically relevant gains in event-free survival were observed in analyses assuming 50% additive effects of combination therapy, including for major adverse cardiovascular events (2.4 years [95% CI, 1.1-3.5]), chronic kidney disease progression (4.5 years [95% CI, 2.8-5.9]), and all-cause death (1.8 years [95% CI, 0.7-2.8])."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In patients with type 2 diabetes and at least moderately increased albuminuria, combination treatment of SGLT2i, GLP-1 RA, and ns-MRA has the potential to afford relevant gains in cardiovascular and kidney event-free and overall survival."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37952217/"
+    },
+    {
+      "pmid": "40156846",
+      "title": "Cardiovascular and Kidney Outcomes and Mortality With Long-Acting Injectable and Oral Glucagon-Like Peptide 1 Receptor Agonists in Individuals With Type 2 Diabetes: A Systematic Review and Meta-analysis of Randomized Trials.",
+      "journal": "Diabetes care",
+      "date": "May 2025",
+      "authors": "Lee MMY, Sattar N, Pop-Busui R et al.",
+      "summary": "As a group, long-acting GLP-1RA, including both injectable and oral formulations, reduce incidence of MACE, HHF, and kidney events and all-cause mortality in T2D.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Glucagon-like peptide 1 receptor agonists (GLP-1RA) reduce the incidence of major adverse cardiovascular events (MACE) in type 2 diabetes (T2D), although whether benefits extend to both subcutaneous and oral formulations remains unclear."
+        },
+        {
+          "label": "PURPOSE",
+          "text": "In these meta-analyses, including new data from the Semaglutide cardiOvascular oUtcomes triaL (SOUL) (oral semaglutide) and Evaluate Renal Function with Semaglutide Once Weekly (FLOW) trial, we examined cardiovascular (CV) and kidney benefits and risks of long-acting (defined as having pharmacokinetics sufficient to provide 24-h activity) GLP-1RA in T2D."
+        },
+        {
+          "label": "DATA SOURCES",
+          "text": "A systematic review of PubMed was conducted (to 7 February 2025)."
+        },
+        {
+          "label": "STUDY SELECTION",
+          "text": "Randomized placebo-controlled CV and kidney outcomes trials of GLP-1RA with \u2265500 individuals with T2D were included."
+        },
+        {
+          "label": "DATA EXTRACTION",
+          "text": "A random-effects model was used to estimate hazard ratios (HRs) for MACE, its components, all-cause mortality, hospitalization for heart failure (HHF), a composite kidney outcome (kidney failure [kidney replacement therapy or persistent estimated glomerular filtration rate [eGFR] <15 mL/min/1.73 m2], sustained \u226550% eGFR decline or nearest equivalent, or kidney-related death), worsening kidney function, and safety outcomes."
+        },
+        {
+          "label": "DATA SYNTHESIS",
+          "text": "Across 10 trials (n = 71,351), long-acting GLP-1RA reduced incidence rate of MACE by 14% (HR 0.86 [95% CI 0.81, 0.90]; I2 = 27.6%), HHF by 14% (0.86 [0.79, 0.93]; I2 = 2.1%), and the composite kidney outcome by 17% (0.83 [0.75, 0.92]; I2 = 20.4%) and all-cause mortality by 12% (0.88 [0.82, 0.93]; I2 = 17.5%). A consistent 14% reduction was seen for all MACE components. There was no significant heterogeneity by GLP-1RA administration route (subcutaneous vs. oral). There were no increased risks of severe hypoglycemia, retinopathy, or pancreatic events."
+        },
+        {
+          "label": "LIMITATIONS",
+          "text": "Trial-level meta-analyses preclude detailed subgroup analyses and may introduce ecological bias."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "As a group, long-acting GLP-1RA, including both injectable and oral formulations, reduce incidence of MACE, HHF, and kidney events and all-cause mortality in T2D."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40156846/"
+    },
+    {
+      "pmid": "39863261",
+      "title": "Kidney and Cardiovascular Outcomes Among Patients With CKD Receiving GLP-1 Receptor Agonists: A Systematic Review and Meta-Analysis of Randomized Trials.",
+      "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+      "date": "May 2025",
+      "authors": "Chen JY, Hsu TW, Liu JH et al.",
+      "summary": "GLP-1 receptor agonists improved kidney and CV outcomes, and survival in patients with CKD enrolled in an array of clinical trials.",
+      "abstract": [
+        {
+          "label": "RATIONALE & OBJECTIVE",
+          "text": "Glucagon-like peptide 1 (GLP-1) receptor agonists improve cardiac and kidney outcomes in patients with diabetes; however, their efficacy in individuals with reduced estimated glomerular filtration rate (eGFR) is uncertain. This study evaluated the effects of GLP-1 receptor agonists on kidney and cardiovascular (CV) outcomes in patients with chronic kidney disease (CKD)."
+        },
+        {
+          "label": "STUDY DESIGN",
+          "text": "Systematic review and meta-analysis of randomized controlled trials (RCTs) reported through May 25,\u00a02024."
+        },
+        {
+          "label": "SETTING & STUDY POPULATIONS",
+          "text": "Adult participants in RCTs with baseline eGFR<60mL/min/1.73m2."
+        },
+        {
+          "label": "SELECTION CRITERIA FOR STUDIES",
+          "text": "RCTs including adults (\u226518 years old) with varying degrees of kidney function, including individuals with CKD characterized by a baseline eGFR of<60mL/min/1.73m2, that compared GLP-1 receptor agonists with control treatments with respect to a composite kidney outcome, all-cause mortality, or a composite CV disease outcome. From among 212 screened studies, 12 trials involving that included participants with baseline eGFR<60mL/min/1.73m2 were included."
+        },
+        {
+          "label": "DATA EXTRACTION",
+          "text": "Two independent investigators extracted the data."
+        },
+        {
+          "label": "ANALYTICAL APPROACH",
+          "text": "Pooled odds ratios (ORs) for composite kidney outcome, all-cause mortality, and composite CV outcome were estimated using random-effects models. Evidence certainty was assessed using the GRADE system."
+        },
+        {
+          "label": "RESULTS",
+          "text": "The analyses included 17,996 RCT participants with baseline eGFR<60mL/min/1.73m2. GLP-1 receptor agonists were significantly associated with a reduced risk of the composite kidney outcome (OR, 0.85 [95% CI, 0.77-0.94]; P=0.001) with low heterogeneity (I2<0.01%). GLP-1 receptor agonists were also associated with a reduced the risk of a>30% eGFR decline (OR, 0.78; P=0.004), a>40% decline (OR, 0.76; P=0.01), and a>50% decline (OR, 0.72; P<0.001). Risk of all-cause mortality was also lower in the GLP-1 receptor agonist group (OR, 0.77 [95% CI, 0.60-0.98], P=0.03), though there was high heterogeneity (I2=71.6%). Composite CV outcomes were also lower with the use of a GLP-1 receptor agonist (OR, 0.86 [95% CI, 0.74-0.99], P=0.03; I2=40.3%). Sensitivity analyses restricted to human GLP-1 backbone agents showed enhanced benefits."
+        },
+        {
+          "label": "LIMITATIONS",
+          "text": "Inconsistent kidney outcome definitions, focus on diabetic populations in most studies, and potential publication bias."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "GLP-1 receptor agonists improved kidney and CV outcomes, and survival in patients with CKD enrolled in an array of clinical trials."
+        },
+        {
+          "label": "REGISTRATION",
+          "text": "Registered at PROSPERO with identification number CRD42023449059."
+        },
+        {
+          "label": "PLAIN-LANGUAGE SUMMARY",
+          "text": "Glucagon-like peptide 1 (GLP-1) receptor agonists reduce body weight and improve glycemic control. They also have been shown to protect the heart and kidney in people with diabetes. However, the extrapolation of these findings to those with chronic kidney disease (CKD) is uncertain. This study meta-analyzed data from clinical trials focusing on patients with CKD and noted that GLP-1 receptor agonists may slow kidney disease progression and lower the risk of heart disease, stroke, and death. These findings suggest that GLP-1 receptor agonists offer multiple kidney and cardiovascular benefits to people with CKD."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39863261/"
+    },
+    {
+      "pmid": "39735270",
+      "title": "GLP-1, GIP/GLP-1, and GCGR/GLP-1 receptor agonists: Novel therapeutic agents for metabolic dysfunction-associated steatohepatitis.",
+      "journal": "World journal of gastroenterology",
+      "date": "Dec 2024",
+      "authors": "Singh A, Sohal A, Batta A",
+      "summary": "The global prevalence of metabolic dysfunction-associated steatotic liver disease (MASLD) is estimated at 32.4%, reflecting its growing clinical significance. MASLD, which includes MASLD and metabolic dysfunction-associated steatohepatitis (MASH) has been...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "The global prevalence of metabolic dysfunction-associated steatotic liver disease (MASLD) is estimated at 32.4%, reflecting its growing clinical significance. MASLD, which includes MASLD and metabolic dysfunction-associated steatohepatitis (MASH) has been linked to increased metabolic, cardiovascular, and malignant morbidity. Progression into fibrotic stages of MASLD is also strongly associated with liver-related mortality. The past few years have seen a heightened focus on creating innovative therapeutic strategies for MASH management. GLP-1 receptor agonists (RA) have also emerged as a potential treatment option. Studies on GLP-1 agonists, such as liraglutide and semaglutide, have demonstrated efficacy in MASH management, albeit with limited histological improvement of fibrosis. However, recent investigations into GLP-1/GIP RA (tirzepatide) and Glucagon/GLP-1 RA (survodutide) have shown even more encouraging results, with higher rates of MASH resolution and fibrosis improvement. The tolerability of these medications due to their gastrointestinal side effects remains a major concern. Future research should focus on optimizing drug regimens, identifying patients most likely to benefit, and balancing efficacy with tolerability. The evolving landscape of MASH therapeutics suggests a bright future, with the potential for combination therapies to further enhance patient outcomes."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39735270/"
+    },
+    {
+      "pmid": "34526024",
+      "title": "GLP-1 receptor agonists and cardiorenal outcomes in type 2 diabetes: an updated meta-analysis of eight CVOTs.",
+      "journal": "Cardiovascular diabetology",
+      "date": "Sep 2021",
+      "authors": "Giugliano D, Scappaticcio L, Longo M et al.",
+      "summary": "GLP-1RA have moderate benefits on MACE, and also reduce hospitalization for heart failure and all-cause mortality; they also have robust benefits on reducing the incidence of macroalbuminuria.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "A meta-analysis is presented of cardiovascular outcome trials (CVOTs) comparing glucagon-like peptide-1 receptor agonists (GLP-1RA) versus placebo on cardiorenal outcomes in patients with type 2 diabetes mellitus (T2DM)."
+        },
+        {
+          "label": "METHODS",
+          "text": "We did an electronic search up to June 30, 2021, for eligible trials. We did a meta-analysis of available trial data using a random-effects model to calculate overall hazard ratios (HRs) and 95% CI (confidence intervals). We included data from 8 CVOTs and 60,080 patients (72.4% with established cardiovascular disease)."
+        },
+        {
+          "label": "RESULTS",
+          "text": "GLP-1RA reduced major cardiovascular events (MACE) by 14% (HR\u2009=\u20090.86, 95% CI 0.79-0.94, P\u2009=\u20090.006) with a non-significant heterogeneity between subgroups of patients with and without cardiovascular disease (P\u2009=\u20090.127). GLP-1RA also reduced the risk\u00a0of cardiovascular death by 13% (P\u2009=\u20090.016), nonfatal stroke by 16% (P\u2009=\u20090.007), hospitalization for heart failure by 10% (P\u2009=\u20090.023), all-cause mortality by 12% (P\u2009=\u20090.012), and the broad composite kidney outcome by 17% (P\u2009=\u20090.012), which was driven by a reduction in macroalbuminuria only (HR\u2009=\u20090.74, 0.67-0.82, P\u2009<\u20090.001)."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "GLP-1RA have moderate benefits on MACE, and also reduce hospitalization for heart failure and all-cause mortality; they also have robust benefits on reducing the incidence of macroalbuminuria."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34526024/"
+    },
+    {
+      "pmid": "38220031",
+      "title": "Cardiovascular benefits of SGLT2 inhibitors and GLP-1 receptor agonists through effects on mitochondrial function and oxidative stress.",
+      "journal": "Free radical biology & medicine",
+      "date": "Mar 2024",
+      "authors": "Luna-Marco C, Iannantuoni F, Hermo-Argibay A et al.",
+      "summary": "Overloaded glucose levels in several metabolic diseases such as type 2 diabetes (T2D) can lead to mitochondrial dysfunction and enhanced production of reactive oxygen species (ROS). Oxidative stress and altered mitochondrial homeostasis, particularly in...",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Overloaded glucose levels in several metabolic diseases such as type 2 diabetes (T2D) can lead to mitochondrial dysfunction and enhanced production of reactive oxygen species (ROS). Oxidative stress and altered mitochondrial homeostasis, particularly in the cardiovascular system, contribute to the development of chronic comorbidities of diabetes. Diabetes-associated hyperglycemia and dyslipidemia can directly damage vascular vessels and lead to coronary artery disease or stroke, and indirectly damage other organs and lead to kidney dysfunction, known as diabetic nephropathy. The new diabetes treatments include Na+-glucose cotransporter 2 inhibitors (iSGLT2) and glucagon-like 1 peptide receptor agonists (GLP-1RA), among others. The iSGLT2 are oral anti-diabetic drugs, whereas GLP-1RA are preferably administered through subcutaneous injection, even though GLP-1RA oral formulations have recently become available. Both therapies are known to improve both carbohydrate and lipid metabolism, as well as to improve cardiovascular and cardiorenal outcomes in diabetic patients. In this review, we present an overview of current knowledge on the relationship between oxidative stress, mitochondrial dysfunction, and cardiovascular therapeutic benefits of iSGLT2 and GLP-1RA. We explore the benefits, limits and common features of the treatments and remark how both are an interesting target in the prevention of obesity, T2D and cardiovascular diseases, and emphasize the lack of a complete understanding of the underlying mechanism of action."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38220031/"
+    },
+    {
+      "pmid": "38663919",
+      "title": "Effect of combination treatment with glucagon-like peptide-1 receptor agonists and sodium-glucose cotransporter-2 inhibitors on incidence of cardiovascular and serious renal events: population based cohort study.",
+      "journal": "BMJ (Clinical research ed.)",
+      "date": "Apr 2024",
+      "authors": "Simms-Williams N, Treves N, Yin H et al.",
+      "summary": "In this cohort study, the GLP-1 receptor agonist-SGLT-2 inhibitor combination was associated with a lower risk of major adverse cardiovascular events and serious renal events compared with either drug class alone.",
+      "abstract": [
+        {
+          "label": "OBJECTIVE",
+          "text": "To determine whether the combined use of glucagon-like peptide-1 (GLP-1) receptor agonists and sodium-glucose cotransporter-2 (SGLT-2) inhibitors is associated with a decreased risk of major adverse cardiovascular events and serious renal events compared with either drug class alone among patients with type 2 diabetes, and to assess the effect of the combination on the individual components of major adverse cardiovascular events, heart failure, and all cause mortality."
+        },
+        {
+          "label": "DESIGN",
+          "text": "Population based cohort study using a prevalent new-user design, emulating a trial."
+        },
+        {
+          "label": "SETTING",
+          "text": "UK Clinical Practice Research Datalink linked to Hospital Episode Statistics Admitted Patient Care and Office for National Statistics databases."
+        },
+        {
+          "label": "PARTICIPANTS",
+          "text": "Two prevalent new-user cohorts were assembled between January 2013 and December 2020, with follow-up until the end of March 2021. The first cohort included 6696 patients who started GLP-1 receptor agonists and added on SGLT-2 inhibitors, and the second included 8942 patients who started SGLT-2 inhibitors and added on GLP-1 receptor agonists. Combination users were matched, in a 1:1 ratio, to patients prescribed the same background drug, duration of background drug, and time conditional propensity score."
+        },
+        {
+          "label": "MAIN OUTCOME MEASURES",
+          "text": "Cox proportional hazards models were fitted to estimate the hazard ratios and 95% confidence intervals of major adverse cardiovascular events and serious renal events, separately, comparing the GLP-1 receptor agonist-SGLT-2 inhibitor combination with the background drug, either GLP-1 receptor agonists or SGLT-2 inhibitors, depending on the cohort. Secondary outcomes included associations with the individual components of major adverse cardiovascular events (myocardial infarction, ischaemic stroke, cardiovascular mortality), heart failure, and all cause mortality."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Compared with GLP-1 receptor agonists, the SGLT-2 inhibitor-GLP-1 receptor agonist combination was associated with a 30% lower risk of major adverse cardiovascular events (7.0 v 10.3 events per 1000 person years; hazard ratio 0.70, 95% confidence interval 0.49 to 0.99) and a 57% lower risk of serious renal events (2.0 v 4.6 events per 1000 person years; hazard ratio 0.43, 0.23 to 0.80). Compared with SGLT-2 inhibitors, the GLP-1 receptor agonist-SGLT-2 inhibitor combination was associated with a 29% lower risk of major adverse cardiovascular events (7.6 v 10.7 events per 1000 person years; hazard ratio 0.71, 0.52 to 0.98), whereas serious renal events generated a wide confidence interval (1.4 v 2.0 events per 1000 person years; hazard ratio 0.67, 0.32 to 1.41). Secondary outcomes generated similar results but with wider confidence intervals."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In this cohort study, the GLP-1 receptor agonist-SGLT-2 inhibitor combination was associated with a lower risk of major adverse cardiovascular events and serious renal events compared with either drug class alone."
+        }
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38663919/"
+    }
+  ]
+}

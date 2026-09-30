@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TrialScout</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main>
+    <header class="masthead">
+      <span class="brand">TrialScout</span>
+      <h1>Ask a research question.<br>Read the papers that answer it.</h1>
+    </header>
+
+    <search role="search">
+      <form id="search-form" autocomplete="off">
+        <label for="q" class="visually-hidden">Research question</label>
+        <input id="q" name="q" type="text" placeholder="For example: KRAS inhibitors in lung cancer" required minlength="3">
+        <button type="submit" id="go">Search papers</button>
+      </form>
+      <div class="examples" aria-label="Example searches">
+        {% for e in examples %}<button type="button" class="chip" data-q="{{ e }}">{{ e }}</button>{% endfor %}
+      </div>
+    </search>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+    <ol id="results" class="results"></ol>
+  </main>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
