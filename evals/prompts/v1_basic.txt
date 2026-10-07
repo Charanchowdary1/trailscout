@@ -1,0 +1,6 @@
+Summarize this research paper abstract in 2 sentences for a general reader.
+
+Title: {{title}}
+
+Abstract:
+{{abstract}}
